@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm web3 developer
+## About Me  
+I'm Kurumi, a passionate developer focused on web3 development and blockchain technology. Here's a bit about me:  
+-  Currently learning **Web3 Development**, including **Solidity** and **Hardhat**.
+- Programming languages: **Python**, **JavaScript**, and **TypeScript**.  
+- atabases: **MySQL**, **PostgreSQL**, and **SQLite**.  
+-  Exploring the world of **smart contract development** on the **EVM and TVM**. 
 
-<!--
-**Kurumilog/Kurumilog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My Projects  
+Projects I’m currently working on:  
+- [Telegram Finance Bot](https://github.com/Kurumilog/financebot) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kurumilog&show_icons=true&theme=gruvbox)
+## Connect with me
+- 📧 Email: [kurumitonlog@gmail.com]  
+- 🐦 Telegram: [https://t.me/DennyGA]
