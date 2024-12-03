@@ -14,5 +14,5 @@ Projects I’m currently working on:
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kurumilog&show_icons=true&theme=gruvbox)
 ## Connect with me
-- 📧 Email: [kurumitonlog@gmail.com]  
-- 🐦 Telegram: [https://t.me/DennyGA]
+- 📧 Email:[kurumitonlog@gmail.com]  
+- 🐦 Telegram:[https://t.me/DennyGA]
