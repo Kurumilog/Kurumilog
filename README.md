@@ -3,7 +3,7 @@
 I'm Kurumi, a passionate developer focused on web3 development and blockchain technology. Here's a bit about me:  
 -  Currently learning **Web3 Development**, including **Solidity** and **Hardhat**.
 - Programming languages: **Python**, **JavaScript**, and **TypeScript**.  
-- atabases: **MySQL**, **PostgreSQL**, and **SQLite**.  
+- databases: **MySQL**, **PostgreSQL**, and **SQLite**.  
 -  Exploring the world of **smart contract development** on the **EVM and TVM**. 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurumilog&layout=compact&theme=gruvbox)
