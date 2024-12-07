@@ -6,6 +6,7 @@ I'm Kurumi, a passionate developer focused on web3 development and blockchain te
 - atabases: **MySQL**, **PostgreSQL**, and **SQLite**.  
 -  Exploring the world of **smart contract development** on the **EVM and TVM**. 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurumilog&layout=compact&theme=gruvbox)
 
 ## My Projects  
 Projects I’m currently working on:  
